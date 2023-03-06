@@ -13,7 +13,7 @@ import (
 
 const (
 	what            = "brighella"
-	dnsPrefix       = "_frame"
+	dnsPrefix       = "_mask"
 	resolverAddress = "8.8.8.8"
 	resolverPort    = "53"
 )
